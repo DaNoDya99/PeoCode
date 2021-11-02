@@ -1,0 +1,89 @@
+body{
+    background: rgb(0,0,0);
+    background: linear-gradient(270deg, rgba(0,0,0,1) 0%, rgba(46,40,40,1) 35%, rgba(158,155,155,1) 100%);  
+    margin: 20px;
+}
+
+.middle1{
+    text-align: center;
+    padding-top: 35px;
+}
+
+.first1{
+    display: inline-block;
+    height: 10rem;
+    width: 10%;
+    background-color: rgb(248, 248, 248);
+    
+}
+
+.second1{
+    display: inline-block;
+    height: 10rem;
+    width: 67%;
+    background-color: rgb(248, 248, 248);
+    margin: 20px;
+}
+
+.third1{
+    display: inline-block;
+    height: 10rem;
+    width: 20%;
+    background-color: rgb(248, 248, 248);
+}
+
+.middle2{
+    text-align: center;
+    padding-top: 25px;
+}
+
+.first2{
+    display: inline-block;
+    height: 8rem;
+    width: 10%;
+    background-color: rgb(248, 248, 248);
+    
+}
+
+.second2{
+    display: inline-block;
+    height: 8rem;
+    width: 67%;
+    background-color: rgb(248, 248, 248);
+    margin: 20px;
+}
+
+.third2{
+    display: inline-block;
+    height: 8rem;
+    width: 20%;
+    background-color: rgb(248, 248, 248);
+}
+
+.middle3{
+    text-align: center;
+    padding-top: 75px;
+}
+
+.first3{
+    display: inline-block;
+    height: 15rem;
+    width: 10%;
+    background-color: rgb(248, 248, 248);
+    
+}
+
+.second3{
+    display: inline-block;
+    height: 15rem;
+    width: 67%;
+    background-color: rgb(248, 248, 248);
+    margin: 20px;
+}
+
+.third3{
+    display: inline-block;
+    height: 15rem;
+    width: 20%;
+    background-color: rgb(248, 248, 248);
+}

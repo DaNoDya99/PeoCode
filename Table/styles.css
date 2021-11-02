@@ -1,0 +1,66 @@
+body{
+    background: linear-gradient( rgba(255,158,55,1) 0%,rgba(255,255,255,1) 100%) fixed; 
+    margin: 0
+}
+
+.left-align{
+    display: inline-block;
+}
+
+.right-align{
+    float: right;
+    
+}
+
+.table{
+    background: linear-gradient(68deg,#4801ff, #ac32e4);
+    margin: -1;
+    border-radius: 16px;
+}
+
+h1{
+    font-style: 
+    italic; 
+    text-align:center
+}
+
+h2{
+    line-height: 0%; 
+    text-align:center
+}
+
+header{
+    padding: 16px 0;
+}
+
+div{
+    margin: 1rem;
+    border-radius: 16px;
+}
+
+h3{
+    color: white; 
+    text-align:center;
+}
+
+table{
+    margin-left: auto; 
+    margin-right:auto; 
+    width:fit-content;
+    padding-top:0
+}
+
+td{
+    padding: 1rem;
+    color: white;
+}
+
+article{
+    padding-left: 18%;
+}
+
+th{
+    color: white; 
+    background-color:rgb(193, 131, 255);
+    padding: 1rem;
+}

@@ -1,0 +1,99 @@
+body{
+    background: linear-gradient(180deg, rgba(23,77,249,1) 0%, rgba(11,111,230,1) 35%, rgba(40,186,232,1) 100%) fixed;
+}
+
+.container{
+    padding-top: 5%;
+    text-align: center;
+}
+
+.left-cont{
+    position: relative;
+    text-align: center;
+    display: inline-block;
+    height: 25rem;
+    width: 15%;
+    background-color: rgb(123, 193, 255);
+    border-radius: 10px;
+    bottom: 35px;
+}
+
+.mid-cont{
+    text-align: center;
+    display: inline-block;
+    height: 28rem;
+    width: 18%;
+    background-color: rgb(123, 193, 255);
+    border-radius: 10px;
+    margin: 0 1%;
+}
+
+.right-cont{
+    position: relative;
+    text-align: center;
+    display: inline-block;
+    height: 25rem;
+    width: 15%;
+    background-color: rgb(123, 193, 255);
+    border-radius: 10px;
+    bottom: 35px;
+}
+
+.info{
+    margin-bottom: 30px;
+}
+
+.mid-para{
+    font-size: large;
+}
+
+h2{
+    text-transform: uppercase;
+    color: white;
+}
+
+hr{
+    border-bottom: 0;
+    width: 80%;
+    border-color: rgb(246, 246, 246);
+}
+
+.btn1{
+    border-radius: 5px;
+    border: 0;
+    padding: 10px 30px;
+    outline: 0;
+}
+
+.btn2{
+    border-radius: 5px;
+    border: 0;
+    padding: 15px 40px;
+    background-color: black;
+    color: white;
+    outline: 0;
+}
+
+.heading{
+    color: white;
+}
+
+.btn1:hover{
+    background-color: grey;
+}
+
+.btn2:hover{
+    background-color: grey;
+}
+
+.left-cont:hover{
+    background-color: rgb(59, 169, 212);
+}
+
+.mid-cont:hover{
+    background-color: rgb(59, 169, 212);
+}
+
+.right-cont:hover{
+    background-color: rgb(59, 169, 212);
+}

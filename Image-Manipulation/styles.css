@@ -1,0 +1,55 @@
+body{
+    background-image: url("assets/bg.jpg");
+}
+
+.fb{
+    width: 10%;
+    border-radius: 100%;
+    border: solid;
+    border-width: 8px;
+    border-color: white;
+    margin-left: 30px;
+}
+
+.insta{
+    width: 10%;
+    height: 12rem;
+    border-radius: 100%;
+    border: solid;
+    border-width: 8px;
+    border-color: white;
+    margin: 0 30px;
+}
+
+.twit{
+    width: 10%;
+    height: 12rem;
+    border-radius: 100%;
+    border: solid;
+    border-width: 8px;
+    border-color: white;
+
+}
+
+.one{
+    border-radius: 1rem;
+}
+
+.planet{
+    border-radius: 1rem;
+    width: 32.5%;
+}
+
+.fb:active{
+    width: 15%;
+}
+
+.insta:active{
+    width: 15%;
+    height: 16rem;
+}
+
+.twit:active{
+    height: 16rem;
+    width: 15%;
+}
